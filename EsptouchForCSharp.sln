@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esptouch", "esptouch\esptouch.csproj", "{44A24AAA-D2E5-4EA2-AD89-E096F4A76412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsptouchNetCore", "EsptouchNetCore\EsptouchNetCore.csproj", "{D47125DE-2424-450B-999D-E13EAAA88043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A24AAA-D2E5-4EA2-AD89-E096F4A76412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A24AAA-D2E5-4EA2-AD89-E096F4A76412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A24AAA-D2E5-4EA2-AD89-E096F4A76412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A24AAA-D2E5-4EA2-AD89-E096F4A76412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47125DE-2424-450B-999D-E13EAAA88043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47125DE-2424-450B-999D-E13EAAA88043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47125DE-2424-450B-999D-E13EAAA88043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47125DE-2424-450B-999D-E13EAAA88043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {768EADFF-8BC7-4A63-A693-C3876AC5D1EA}
+	EndGlobalSection
+EndGlobal
