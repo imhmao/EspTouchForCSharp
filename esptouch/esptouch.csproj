@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <Compile Remove="Task\IEsptouchTask.cs" />
+    <Compile Remove="Util\Program.cs" />
   </ItemGroup>
 
 </Project>
