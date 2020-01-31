@@ -8,6 +8,7 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageLicenseExpression></PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/imhmao/EspTouchForCSharp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,6 +6,7 @@
     <Authors>WANG DIQIANG</Authors>
     <Company>TIYOR</Company>
     <Description>基于 ESP wifi 模块的 smartconfig 之 esptouch 协议智能配网的 .net 实现</Description>
+    <RepositoryUrl>https://github.com/imhmao/EspTouchForCSharp</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
